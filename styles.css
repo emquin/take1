@@ -1,0 +1,18 @@
+
+
+
+
+h1 {
+  color: #e3aad6;
+font-size: 100px;
+font-family: sans-serif ;
+}
+
+<class=text="center">
+mySidenav {
+    height: 100%;
+    width: 20;
+    background-color: black;
+    padding-top: 60px;
+    transition: 0.5s;
+    font-family: courier;}
